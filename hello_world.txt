@@ -1,0 +1,7 @@
+Hello, World! This is my second commit to the GitHub repository.
+I am still trying to wrap my head around this whole version control thingy.
+From what I've managed to glean so far, Git is a version control system that allows you to keep
+a record of the whole state of your repository at certain points in time. This is useful to
+document the progress of the code and it makes simpler to roll back changes once a problem
+arises. I am going to save the changes I've made to this text file and commit it to my GitHu
+repository.
